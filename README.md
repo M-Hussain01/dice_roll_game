@@ -18,7 +18,7 @@
 
 Download or clone this repository
 
-git clone https://github.com/<your-username>/dice-roll-game.git
+git clone https://github.com/M-Hussain01/dice-roll-game.git
 
 
 Open the folder
